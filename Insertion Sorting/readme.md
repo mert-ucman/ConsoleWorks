@@ -12,9 +12,9 @@
  Big-O gösterimi O(n^2)
 
 # Time Complexity
- Average case: Aradığımız sayının ortada olması,
- Worst case: Aradığımız sayının sonda olması,
- Best case: Aradığımız sayının dizinin en başında olması.
+ Average case: Aradığımız sayının ortada olması,  
+ Worst case: Aradığımız sayının sonda olması,  
+ Best case: Aradığımız sayının dizinin en başında olması.  
 
 # Dizi Sıralandıktan Sonra 18 Sayısı Hangi Case Kapsamına Girer?
  [2,6,16,18,22,27] -> Dizinin Sıralı ve Son Hali
