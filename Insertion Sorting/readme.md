@@ -17,7 +17,7 @@
  Best case: Aradığımız sayının dizinin en başında olması.  
 
 # Dizi Sıralandıktan Sonra 18 Sayısı Hangi Case Kapsamına Girer?
- [2,6,16,18,22,27] -> Dizinin Sıralı ve Son Hali
+ [2,6,16,18,22,27] -> Dizinin Sıralı ve Son Hali  
  18 sayısı Average Case kapsamına girer.
 
 # Aşağıdaki Dizinin Insertion Sort'a Göre İlk 4 Adımını Yazınız.
