@@ -89,7 +89,7 @@ public class Log
                 string[] getLines = File.ReadAllLines(fileLocation);
                 int balance = int.Parse(getLines[2].Substring(8));
 
-                string fileName = getIdFileName[i].Substring(11, 1);
+                string fileName = getIdFileName[i].Substring(11, 11);
                 var userBalance = Database.customer.FirstOrDefault(x => x.IdNo == fileName);
                 userBalance.AccountBalance = balance;
 

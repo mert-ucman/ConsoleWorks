@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mert\\Desktop\\Projects\\Back End\\Zor\\Atm\\Atm.csproj": {}
+    "C:\\Users\\Mert\\Desktop\\Console Works\\ConsoleWorks\\Atm\\Atm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mert\\Desktop\\Projects\\Back End\\Zor\\Atm\\Atm.csproj": {
+    "C:\\Users\\Mert\\Desktop\\Console Works\\ConsoleWorks\\Atm\\Atm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\Projects\\Back End\\Zor\\Atm\\Atm.csproj",
+        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\Console Works\\ConsoleWorks\\Atm\\Atm.csproj",
         "projectName": "Atm",
-        "projectPath": "C:\\Users\\Mert\\Desktop\\Projects\\Back End\\Zor\\Atm\\Atm.csproj",
+        "projectPath": "C:\\Users\\Mert\\Desktop\\Console Works\\ConsoleWorks\\Atm\\Atm.csproj",
         "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mert\\Desktop\\Projects\\Back End\\Zor\\Atm\\obj\\",
+        "outputPath": "C:\\Users\\Mert\\Desktop\\Console Works\\ConsoleWorks\\Atm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
